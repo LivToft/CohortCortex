@@ -1,4 +1,4 @@
-CorteX: AI-Based Patient Cohort Design
+corteX: AI-Based Patient Cohort Design
 ==========================================
 Authors: Cleo Chen, Juhi Gupta, Myra Haider, Jon Potter, Liv Toft
 
@@ -10,7 +10,7 @@ Description
 ==========================================
 In this project, we adapted an LLM to convert natural language clinical trial inclusion and exclusion criteria into standardized symbolic rules, avoiding hallucination.
 An engine was also designed to parse electronic health records and select or reject patients for the clinical trial using the symbolic rules. The engine also provides insight as to why each decision was made, promoting interpretability.
-Finally, we made a simple user interface. CorteX enables clinicians to reduce the search space of patients in a matter of seconds, saving time and accelerating the clinical trial workflow.
+Finally, we made a simple user interface. corteX enables clinicians to reduce the search space of patients in a matter of seconds, saving time and accelerating the clinical trial workflow.
 
 data
 ----------------------------------------
