@@ -1,6 +1,7 @@
 CorteX: AI-Based Patient Cohort Design
 ==========================================
-Authors: Cleo Chen, Juhi Gupta, Myra Haider, Jon Potter, Liv Toft;
+Authors: Cleo Chen, Juhi Gupta, Myra Haider, Jon Potter, Liv Toft
+
 Carnegie Mellon University, Masters in Computational Biology
 
 Project for the 2024 Nucleate PGH BioHack Hackathon. 1st Place, BioTech track.
